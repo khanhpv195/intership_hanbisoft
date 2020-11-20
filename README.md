@@ -13,12 +13,13 @@
 ## Front end
     1. Html/Css/Boostrap or template Admin free (optional)
     2. Reactjs functional component, Hook (useState, useEffect) , Formik, Axios
+    
     https://formik.org/docs/overview  ( validate form, get value form submit)
     https://github.com/axios/axios ( Call api form backend)
 ## Package
     1. Yarn ( do not use Npm)
 ## Source control
-    1. Gitlab
+    1. Github
 ## Example Rest Api laravel, Frontend Reactjs
     1. Updating............
     
