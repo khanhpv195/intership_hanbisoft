@@ -7,10 +7,10 @@
     5. Management Products Order RUD
     6: Logout
 ## Technology
-## Back end
+## Back end Deadline: ( Start 23/11/2020 - 04/12/2020)
     1. Laravel lastest version, Rest Api, Authentication Passport, use design partern respository
     2. Mysql (users,products, orders,customers) 
-## Front end
+## Front end Deadline: ( Start 07/11/2020 - 18/12/2020)
     1. Html/Css/Boostrap or template Admin free (optional)
     2. Reactjs functional component, Hook (useState, useEffect) , Formik, Axios
     
@@ -23,3 +23,4 @@
 ## Example Rest Api laravel, Frontend Reactjs
     1. Updating............
     
+## Deadline final project 20/12/2020
