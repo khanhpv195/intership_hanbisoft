@@ -10,7 +10,7 @@
 ## Back end Deadline: ( Start 23/11/2020 - 04/12/2020)
     1. Laravel lastest version, Rest Api, Authentication Passport, use design partern respository
     2. Mysql (users,products, orders,customers) 
-## Front end Deadline: ( Start 07/11/2020 - 18/12/2020)
+## Front end Deadline: ( Start 07/12/2020 - 18/12/2020)
     1. Html/Css/Boostrap or template Admin free (optional)
     2. Reactjs functional component, Hook (useState, useEffect) , Formik, Axios
     
